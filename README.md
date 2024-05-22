@@ -1,7 +1,6 @@
-## Hi there, my name is Said and I am a Backend Developer 👋
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Said Aljure! 👋
 
-## 👨‍💻 Full Stack Developer with a Backend Twist
+## 👨‍💻 Back End Developer with a Full Stack Twist
 
 I am a passionate Full Stack Developer specializing in backend development. I thrive on crafting innovative solutions and driving efficiency in every line of code I write.
 
