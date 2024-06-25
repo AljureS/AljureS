@@ -27,7 +27,7 @@ My journey in technology began with a foundational programming course at Platzi.
 - **Languages**: JavaScript, TypeScript
 - **Backend**: Node.js, NestJS, Express.js
 - **Databases**: MongoDB, PostgreSQL
-- **Misc**: JWT, bcrypt, Cloudinary
+- **Misc**: JWT, bcrypt, Cloudinary, Nodemailer 
 
 ### 📖 Education
 - **Full Stack Development Bootcamp** (Ongoing)
