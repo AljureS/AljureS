@@ -38,7 +38,7 @@ My journey in technology began with a foundational programming course at Platzi.
 Aspiring to be a lead backend developer, I am eager to tackle challenging projects that test my skills and broaden my technological horizon. I am looking for opportunities to delve into scalable and secure backend solutions, aiming to contribute significantly to the technological success of visionary companies.
 
 ### 🤝 Connect with Me
-- [LinkedIn](www.linkedin.com/in/webdeveloper-saljure)
+- [LinkedIn](https://www.linkedin.com/in/webdeveloper-saljure)
 
 Thank you for stopping by my profile! Feel free to reach out if you want to collaborate on exciting projects or exchange ideas over a cup of coffee! ☕
 
