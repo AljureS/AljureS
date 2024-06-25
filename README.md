@@ -16,10 +16,11 @@ My journey in technology began with a foundational programming course at Platzi.
   - Cultivated assertive communication, collaborating effectively with diverse teams.
 
 ### 🌟 Highlight Projects
+- **ETicketBack**: Robust backend app done with NestJS and TypeScript, full ecommerce functionalities with email service, Auth0 authentication, PayPal and Mercado pago as payment methods 
+- **E-commerce Application**: Developed with NestJS and TypeScript, integrated with Cloudinary for files uploading and fortified with bcrypt and JWT for security.
 - **Mokepones Game**: A multiplayer game where strategy and speed thrive.
 - **Movie Management Platform**: Utilized MongoDB to create a comprehensive tool for movie enthusiasts and cinema operators.
 - **Shift Management System**: Implemented using PostgreSQL, enhancing operational efficiency.
-- **E-commerce Application**: Developed with NestJS and TypeScript, integrated with Cloudinary for files uploading and fortified with bcrypt and JWT for security.
 
 ### 🛠️ Technical Stack
 - **Languages**: JavaScript, TypeScript
