@@ -7,7 +7,7 @@ I am a passionate Full Stack Developer specializing in backend development. I th
 ### 🚀 About Me
 My journey in technology began with a foundational programming course at Platzi. With a relentless pursuit for technological advancement, I have grown from a curious learner to a skilled developer, handling everything from game development to complex enterprise applications.
 
-### Currently working on a support livechat done with Socket.io called **LiveChat**
+### Currently working on a support **LiveChat** done with Socket.io 
 
 ### 📚 Professional Experience
 - **Teaching Assistant** at a Full Stack Development Bootcamp
