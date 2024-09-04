@@ -7,7 +7,7 @@ I am a passionate Full Stack Developer specializing in backend development. I th
 ### 🚀 About Me
 My journey in technology began with a foundational programming course at Platzi. With a relentless pursuit for technological advancement, I have grown from a curious learner to a skilled developer, handling everything from game development to complex enterprise applications.
 
-### 🌟 Currently catching up to Java development 🌟
+### 🌟 Currently building an appoitment manneger for Doctors and Nurses with Java 🌟
 
 ### 📚 Professional Experience
 - **Teaching Assistant** at a Full Stack Development Bootcamp
