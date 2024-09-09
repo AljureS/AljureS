@@ -9,6 +9,14 @@ My journey in technology began with a foundational programming course at Platzi.
 
 ### 🌟 Currently building an appoitment manneger for Doctors and Nurses with Java 🌟
 
+### 🌟 Highlight of my Projects
+- **LiveChat**: Full Live Chat app done with a Socket.io server adapted to the framework NestJS 
+- **ETicketBack**: Robust backend app done with NestJS and TypeScript, full ecommerce functionalities with email service, Auth0 authentication, PayPal and Mercado pago as payment methods 
+- **E-commerce Application**: Developed with NestJS and TypeScript, integrated with Cloudinary for files uploading and fortified with bcrypt and JWT for security.
+- **Movie Management Platform**: Utilized JavaScript with ExpressJS combined with MongoDB to create a comprehensive tool for movie enthusiasts and cinema operators.
+- **Shift Management System**: Implemented using PostgreSQL, enhancing operational efficiency.
+- **Mokepones Game**: A multiplayer game where strategy and speed thrive, biuld with JavaSacript, html and CSS.
+  
 ### 📚 Professional Experience
 - **Teaching Assistant** at a Full Stack Development Bootcamp
   - Elevating new coders into the realm of development, focusing on backend technologies and soft skills.
@@ -17,13 +25,7 @@ My journey in technology began with a foundational programming course at Platzi.
 - **Internship at an Industrial Plant**
   - Cultivated assertive communication, collaborating effectively with diverse teams.
 
-### 🌟 Highlight Projects
-- **LiveChat**: Full Live Chat app done with a Socket.io server adapted to the framework NestJS 
-- **ETicketBack**: Robust backend app done with NestJS and TypeScript, full ecommerce functionalities with email service, Auth0 authentication, PayPal and Mercado pago as payment methods 
-- **E-commerce Application**: Developed with NestJS and TypeScript, integrated with Cloudinary for files uploading and fortified with bcrypt and JWT for security.
-- **Mokepones Game**: A multiplayer game where strategy and speed thrive.
-- **Movie Management Platform**: Utilized MongoDB to create a comprehensive tool for movie enthusiasts and cinema operators.
-- **Shift Management System**: Implemented using PostgreSQL, enhancing operational efficiency.
+
 
 ### 🛠️ Technical Stack
 - **Languages**: JavaScript, TypeScript
