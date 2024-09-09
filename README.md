@@ -7,14 +7,21 @@ I am a passionate Full Stack Developer specializing in backend development. I th
 ### 🚀 About Me
 My journey in technology began with a foundational programming course at Platzi. With a relentless pursuit for technological advancement, I have grown from a curious learner to a skilled developer, handling everything from game development to complex enterprise applications.
 
-### 🌟 Currently building an appoitment manneger for Doctors and Nurses with Java 🌟
+### 🌟 Currently building a market Api using Spring 🌟
+
+### 🛠️ Technical Stack
+- **Languages**: Java, TypeScript, JavaScript
+- **Backend**: Node.js, NestJS, Express.js, Socket.io
+- **Databases**: MongoDB, PostgreSQL
+- **Misc**: JWT, bcrypt, Cloudinary, Nodemailer 
 
 ### 🌟 Highlight of my Projects
 - **LiveChat**: Full Live Chat app done with a Socket.io server adapted to the framework NestJS 
 - **ETicketBack**: Robust backend app done with NestJS and TypeScript, full ecommerce functionalities with email service, Auth0 authentication, PayPal and Mercado pago as payment methods 
-- **E-commerce Application**: Developed with NestJS and TypeScript, integrated with Cloudinary for files uploading and fortified with bcrypt and JWT for security.
-- **Movie Management Platform**: Utilized JavaScript with ExpressJS combined with MongoDB to create a comprehensive tool for movie enthusiasts and cinema operators.
-- **Shift Management System**: Implemented using PostgreSQL, enhancing operational efficiency.
+- **E-commerce App**: Developed with NestJS and TypeScript, integrated with Cloudinary for files uploading and fortified with bcrypt and JWT for security.
+- **CineVogager Platform**: Utilized JavaScript with ExpressJS combined with MongoDB to create a comprehensive tool for movie enthusiasts and cinema operators.
+- **Demo Java**: Software made purely with Java to manage apponitments form the Doctor and Patioent side 
+- **Powerlfit gym**: SHift manager for a gym, implemented using TypeScript for the backend and JavaScript for the frontend with PostgreSQL, enhancing operational efficiency.
 - **Mokepones Game**: A multiplayer game where strategy and speed thrive, biuld with JavaSacript, html and CSS.
   
 ### 📚 Professional Experience
@@ -25,18 +32,18 @@ My journey in technology began with a foundational programming course at Platzi.
 - **Internship at an Industrial Plant**
   - Cultivated assertive communication, collaborating effectively with diverse teams.
 
-
-
-### 🛠️ Technical Stack
-- **Languages**: JavaScript, TypeScript
-- **Backend**: Node.js, NestJS, Express.js
-- **Databases**: MongoDB, PostgreSQL
-- **Misc**: JWT, bcrypt, Cloudinary, Nodemailer 
-
 ### 📖 Education
-- **Full Stack Development Bootcamp** (Ongoing)
-- **Git and GitHub Course** (Ongoing)
-- **Prompt Engineering Course**
+ ## PROFESSIONAL EDUCATION
+Full Stack Web Developer focused on Back End. Henry Bootcamp. 800 hours of theoretical and practical course. 2024.
+Bachelor's in Agroindustrial Production Engineering. Universidad de la Sabana. 2018 - 2023.
+
+ ## SUPPLEMENTARY EDUCATION
+Java Spring Course. Platzi. Ongoing 
+Object-Oriented Java SE Course. Platzi.2024.
+Real-Time Applications Course with Socket.io. Platzi. 2024
+Professional Git and GitHub Course. Platzi. 2024
+Prompt Engineering Course with ChatGPT. Platzi. 2023
+Basic Programming Course. Platzi. 2024
 
 
 ### 🎯 Career Goals
