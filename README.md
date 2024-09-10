@@ -20,7 +20,7 @@ My journey in technology began with a foundational programming course at Platzi.
 - **ETicketBack**: Robust backend app done with NestJS and TypeScript, full ecommerce functionalities with email service, Auth0 authentication, PayPal and Mercado pago as payment methods 
 - **E-commerce App**: Developed with NestJS and TypeScript, integrated with Cloudinary for files uploading and fortified with bcrypt and JWT for security.
 - **CineVogager Platform**: Utilized JavaScript with ExpressJS combined with MongoDB to create a comprehensive tool for movie enthusiasts and cinema operators.
-- **Demo Java**: Software made purely with Java to manage apponitments for Doctors and Patients
+- **AppointmentsJavaDemo**: Software made purely with Java to manage apponitments for Doctors and Patients
 - **Powerlfit gym**: SHift manager for a gym, implemented using TypeScript for the backend and JavaScript for the frontend with PostgreSQL, enhancing operational efficiency.
 - **Mokepones Game**: A multiplayer game where strategy and speed thrive, biuld with JavaSacript, html and CSS.
   
