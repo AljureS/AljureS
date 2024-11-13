@@ -11,8 +11,8 @@ My journey in technology began with a foundational programming course at Platzi.
 
 ### 🛠️ Technical Stack
 - **Languages**: Java, TypeScript, JavaScript
-- **Backend**: Node.js, NestJS, Express.js, Socket.io
-- **Databases**: MongoDB, PostgreSQL
+- **Backend**: Spring Boot, NestJS, Express.js, Socket.io
+- **Databases**: MongoDB, PostgreSQ,Spring Data
 - **Misc**: JWT, bcrypt, Cloudinary, Nodemailer 
 
 ### 🌟 Highlight of my Projects
