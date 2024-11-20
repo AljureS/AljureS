@@ -2,12 +2,14 @@
 
 ## 👨‍💻Full Stack Developer with a Back End Twist
 
-I am a passionate Full Stack Developer specializing in backend development. I thrive on crafting innovative solutions and driving efficiency in every line of code I write.
+I am a passionate Full Stack Developer. I thrive on crafting innovative solutions and driving efficiency in every line of code I write.
 
 ### 🚀 About Me
 My journey in technology began with a foundational programming course at Platzi. With a relentless pursuit for technological advancement, I have grown from a curious learner to a skilled developer, handling everything from game development to complex enterprise applications.
 
-### 🌟 Currently building a market Api using Spring 🌟
+### 🌟 Last build project a market Api using Spring 🌟
+
+### 🌟Currentlu learning WebAssembly with C# .NET
 
 ### 🛠️ Technical Stack
 - **Languages**: Java, TypeScript, JavaScript
