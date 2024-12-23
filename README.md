@@ -9,7 +9,7 @@ My journey in technology began with a foundational programming course at Platzi.
 
 ### 🌟 Last build project a market Api using Spring 🌟
 
-### 🌟Currentlu learning WebAssembly with C# .NET
+### 🌟Currently working on OCESA Colombia | LiveNation company as a developer
 
 ### 🛠️ Technical Stack
 - **Languages**: Java, TypeScript, JavaScript
