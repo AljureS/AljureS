@@ -1,24 +1,24 @@
 # Hello, I'm Said Aljure! 👋
 
-## 👨‍💻Full Stack Developer with a Back End Twist
+## 👨‍💻Full Stack Developer
 
 I am a passionate Full Stack Developer. I thrive on crafting innovative solutions and driving efficiency in every line of code I write.
 
 ### 🚀 About Me
 My journey in technology began with a foundational programming course at Platzi. With a relentless pursuit for technological advancement, I have grown from a curious learner to a skilled developer, handling everything from game development to complex enterprise applications.
 
-### 🌟 Last build project a market Api using Spring 🌟
-
-### 🌟Currently working on OCESA Colombia | LiveNation company as a developer
+### 🌟Currently working on TICKETMASTER | OCESA Colombia company as a developer
 
 ### 🛠️ Technical Stack
-- **Languages**: Java, TypeScript, JavaScript
-- **Backend**: Spring Boot, NestJS, Express.js, Socket.io
+- **Languages**: TypeScript, JavaScript, Java
+- **Frontend**: NextJs and React
+- **Backend**: Spring Boot and NestJS
 - **Databases**: MongoDB, PostgreSQ,Spring Data
-- **Misc**: JWT, bcrypt, Cloudinary, Nodemailer 
+- **Misc**: JWT, bcrypt, Cloudinary, Nodemailer, Socket.io
 
 ### 🌟 Highlight of my Projects
-- **LiveChat**: Full Live Chat app done with a Socket.io server adapted to the framework NestJS 
+- **LiveChat**: Full Live Chat app done with a Socket.io server adapted to the framework NestJS
+- **SaidMarket**: CRUD build with Springboot on a DDD(Domain Driven Desgin)
 - **ETicketBack**: Robust backend app done with NestJS and TypeScript, full ecommerce functionalities with email service, Auth0 authentication, PayPal and Mercado pago as payment methods 
 - **E-commerce App**: Developed with NestJS and TypeScript, integrated with Cloudinary for files uploading and fortified with bcrypt and JWT for security.
 - **CineVogager Platform**: Utilized JavaScript with ExpressJS combined with MongoDB to create a comprehensive tool for movie enthusiasts and cinema operators.
