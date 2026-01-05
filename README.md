@@ -1,6 +1,6 @@
 # Hello, I'm Said Aljure! 👋
 
-## 👨‍💻Full Stack Developer
+## 👨‍💻Full Stack Engineer
 
 I am a passionate Full Stack Developer. I thrive on crafting innovative solutions and driving efficiency in every line of code I write.
 
@@ -10,21 +10,14 @@ My journey in technology began with a foundational programming course at Platzi.
 ### 🌟Currently working on TICKETMASTER | OCESA Colombia company as a developer
 
 ### 🛠️ Technical Stack
-- **Languages**: TypeScript, JavaScript, Java
+- **Languages**: TypeScript, JavaScript, Java and Python
 - **Frontend**: NextJs and React
-- **Backend**: Spring Boot and NestJS
-- **Databases**: MongoDB, PostgreSQ,Spring Data
-- **Misc**: JWT, bcrypt, Cloudinary, Nodemailer, Socket.io
+- **Backend**: Spring Boot and NestJS | Supabase & Firebase
+- **Databases**: MongoDB, PostgreSQ
+- **Misc**: JWT, bcrypt, Cloudinary, Nodemailer, Socket.io, claude code 
 
 ### 🌟 Highlight of my Projects
-- **LiveChat**: Full Live Chat app done with a Socket.io server adapted to the framework NestJS
-- **SaidMarket**: CRUD build with Springboot on a DDD(Domain Driven Desgin)
-- **ETicketBack**: Robust backend app done with NestJS and TypeScript, full ecommerce functionalities with email service, Auth0 authentication, PayPal and Mercado pago as payment methods 
-- **E-commerce App**: Developed with NestJS and TypeScript, integrated with Cloudinary for files uploading and fortified with bcrypt and JWT for security.
-- **CineVogager Platform**: Utilized JavaScript with ExpressJS combined with MongoDB to create a comprehensive tool for movie enthusiasts and cinema operators.
-- **AppointmentsJavaDemo**: Software made purely with Java to manage apponitments for Doctors and Patients
-- **Powerlfit gym**: SHift manager for a gym, implemented using TypeScript for the backend and JavaScript for the frontend with PostgreSQL, enhancing operational efficiency.
-- **Mokepones Game**: A multiplayer game where strategy and speed thrive, biuld with JavaSacript, html and CSS.
+- Check them out on my pined projects 
   
 ### 📚 Professional Experience
 - **Teaching Assistant** at a Full Stack Development Bootcamp
@@ -36,10 +29,10 @@ My journey in technology began with a foundational programming course at Platzi.
 
 ### 📖 Education
  ## PROFESSIONAL EDUCATION
-Full Stack Web Developer focused on Back End. Henry Bootcamp. 800 hours of theoretical and practical course. 2024.
+Full Stack Web Developer Henry Bootcamp. 800 hours of theoretical and practical course. 2024.
 Bachelor's in Agroindustrial Production Engineering. Universidad de la Sabana. 2018 - 2023.
 
- ## SUPPLEMENTARY EDUCATION
+ ## CERTIFICATIONS
 Java Spring Course. Platzi. Ongoing 
 Object-Oriented Java SE Course. Platzi.2024.
 Real-Time Applications Course with Socket.io. Platzi. 2024
@@ -47,9 +40,6 @@ Professional Git and GitHub Course. Platzi. 2024
 Prompt Engineering Course with ChatGPT. Platzi. 2023
 Basic Programming Course. Platzi. 2024
 
-
-### 🎯 Career Goals
-Aspiring to be a lead backend developer, I am eager to tackle challenging projects that test my skills and broaden my technological horizon. I am looking for opportunities to delve into scalable and secure backend solutions, aiming to contribute significantly to the technological success of visionary companies.
 
 ### 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/webdeveloper-saljure)
